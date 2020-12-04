@@ -1,0 +1,9 @@
+C:\Users\Яша\source\repos\Chat\Chat\bin\Debug\netcoreapp3.1\Chat.deps.json
+C:\Users\Яша\source\repos\Chat\Chat\bin\Debug\netcoreapp3.1\Chat.dll
+C:\Users\Яша\source\repos\Chat\Chat\bin\Debug\netcoreapp3.1\Chat.pdb
+C:\Users\Яша\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.csprojAssemblyReference.cache
+C:\Users\Яша\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Яша\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.AssemblyInfoInputs.cache
+C:\Users\Яша\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.AssemblyInfo.cs
+C:\Users\Яша\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.dll
+C:\Users\Яша\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.pdb
