@@ -9,7 +9,8 @@
     <Grid>
         <Button x:Name="Button_Autoriz" Content="Авторизоватся" HorizontalAlignment="Left" Margin="10,56,0,0" VerticalAlignment="Top" Width="99" Click="Button_Autoriz_Click"/>
         <TextBox x:Name="TextBox_Message" HorizontalAlignment="Left" BorderBrush="Black" Margin="0,286,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" Height="29"/>
-        <Button HorizontalAlignment="Left" Margin="127,253,0,0" VerticalAlignment="Top" Width ="40"  Height="30"/>
-        <ListBox Margin="172,10,10,10"/>
+        <Button x:Name="Button_SendMessage" HorizontalAlignment="Left" Margin="127,251,0,0" VerticalAlignment="Top" Width ="40"  Height="30" IsEnabled="False" Click="button_SendMessage_Click"/>
+        <ListBox x:Name="ListBox_Message"  Margin="172,10,10,10"/>
+        <Button x:Name="Button_Connect" Content="Подключится" HorizontalAlignment="Left" Margin="10,108,0,0" VerticalAlignment="Top" Width="99" IsEnabled="False" Click="Button_Connect_Click"/>
     </Grid>
 </Window>
